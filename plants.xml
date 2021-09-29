@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<plants>
+    <tree name="Дуб красный" high="25"/>
+    <bush name="Superba" high="4"/>
+    <tree name="Клён остролистный" high="10"/>
+    <bush name="Атропурпурея" high="1"/>
+    <tree name="Липа мелколистная" high="25"/>
+    <bush name="Боярышник обыкновенный" high="2.5"/>
+    <tree name="Орех Маньчжурский" high="30"/>
+    <bush name="Гортензия древовидная" high="1.25"/>
+    <bush name="Дерен белый" high="1.75"/>
+    <tree name="Рябина обыкновенная" high="10"/>
+</plants>
