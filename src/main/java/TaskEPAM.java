@@ -161,7 +161,7 @@ public class TaskEPAM {
     }
     /**
      * @param s - object
-     * @return boolean: check is/has
+     * @return boolean: check is-a
      */
     private static boolean isaBoolean(Plants s) {
         return s instanceof Trees;
